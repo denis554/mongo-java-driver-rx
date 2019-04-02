@@ -112,14 +112,7 @@ $ cd mongo-java-driver-rx
 $ ./gradlew check
 ```
 
-## Maintainers
-
-* Ross Lawley          ross@mongodb.com
-* Jeff Yemin           jeff.yemin@mongodb.com
-
-Additional contributors can be found [here](https://github.com/mongodb/mongo-java-driver-rx/graphs/contributors).
-
-## Supporters
+Additional contributors can be found [here](https://github.com/denis554/mongo-java-driver-rx/graphs/contributors).
 
 YourKit is supporting this open source project with its [YourKit Java Profiler](http://www.yourkit.com/java/profiler/index.jsp).
 
