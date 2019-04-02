@@ -107,7 +107,7 @@ Example for Maven:
 To build the driver:
 
 ```
-$ git clone https://github.com/mongodb/mongo-java-driver-rx.git
+$ git clone https://github.com/denis554/mongo-java-driver-rx.git
 $ cd mongo-java-driver-rx
 $ ./gradlew check
 ```
